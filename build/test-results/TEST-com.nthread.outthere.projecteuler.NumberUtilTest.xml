@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.nthread.outthere.projecteuler.NumberUtilTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2016-10-14T05:07:47" hostname="stationzero" time="0.001">
+  <properties/>
+  <testcase name="testGcd" classname="com.nthread.outthere.projecteuler.NumberUtilTest" time="0.001"/>
+  <testcase name="testIsPermutations" classname="com.nthread.outthere.projecteuler.NumberUtilTest" time="0.0"/>
+  <system-out><![CDATA[1==1
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

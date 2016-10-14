@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.nthread.outthere.samples.PatternMatchingPathsTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2016-10-14T05:07:47" hostname="stationzero" time="0.006">
+  <properties/>
+  <testcase name="testWarbyFile" classname="com.nthread.outthere.samples.PatternMatchingPathsTest" time="0.004"/>
+  <testcase name="testMyFile" classname="com.nthread.outthere.samples.PatternMatchingPathsTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

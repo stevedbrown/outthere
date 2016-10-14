@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.nthread.outthere.cracking.SumListTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2016-10-14T05:07:46" hostname="stationzero" time="0.001">
+  <properties/>
+  <testcase name="testReverseSum1" classname="com.nthread.outthere.cracking.SumListTest" time="0.0"/>
+  <testcase name="testReverseSum2" classname="com.nthread.outthere.cracking.SumListTest" time="0.0"/>
+  <testcase name="testReverseSum3" classname="com.nthread.outthere.cracking.SumListTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.nthread.outthere.cracking.PatternMatchingTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2016-10-14T05:07:46" hostname="stationzero" time="0.002">
+  <properties/>
+  <testcase name="testDoesMatch" classname="com.nthread.outthere.cracking.PatternMatchingTest" time="0.001"/>
+  <testcase name="testMatches" classname="com.nthread.outthere.cracking.PatternMatchingTest" time="0.0"/>
+  <system-out><![CDATA[a was cat, b was go
+a was c, b was atcatgocatgo
+a was catcatgocatgo, b was 
+a was c, b was atcatgocatgo
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

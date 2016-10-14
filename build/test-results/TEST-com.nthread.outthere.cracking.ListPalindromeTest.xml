@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.nthread.outthere.cracking.ListPalindromeTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2016-10-14T05:07:46" hostname="stationzero" time="0.003">
+  <properties/>
+  <testcase name="testPal" classname="com.nthread.outthere.cracking.ListPalindromeTest" time="0.003"/>
+  <system-out><![CDATA[adding 1
+adding 0
+checking [3] 0 != 0
+checking [4] 1 != 1
+adding 1
+adding 0
+checking [3] 0 != 0
+checking [4] 1 != 2
+===>false
+adding 1
+adding 0
+adding 6
+checking [3] 6 != 6
+checking [4] 0 != 0
+checking [5] 1 != 1
+adding 1
+adding 0
+adding 6
+checking [3] 6 != 7
+===>false
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

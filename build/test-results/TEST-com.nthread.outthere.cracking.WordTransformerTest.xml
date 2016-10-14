@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.nthread.outthere.cracking.WordTransformerTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2016-10-14T05:07:47" hostname="stationzero" time="0.008">
+  <properties/>
+  <testcase name="test" classname="com.nthread.outthere.cracking.WordTransformerTest" time="0.008"/>
+  <system-out><![CDATA[...1:::1
+...searchLevel 1
+...searchLevel 1
+...searchLevel 15
+...searchLevel 21
+...searchLevel 190
+...searchLevel 365
+...1:::1
+...searchLevel 1
+...searchLevel 1
+...searchLevel 20
+...searchLevel 5
+...searchLevel 259
+...searchLevel 7
+...searchLevel 1294
+...searchLevel 20
+...searchLevel 5485
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

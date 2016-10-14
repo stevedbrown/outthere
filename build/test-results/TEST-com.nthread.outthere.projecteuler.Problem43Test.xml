@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.nthread.outthere.projecteuler.Problem43Test" tests="1" skipped="0" failures="0" errors="0" timestamp="2016-10-14T05:07:47" hostname="stationzero" time="0.0">
+  <properties/>
+  <testcase name="testFour3Divisible" classname="com.nthread.outthere.projecteuler.Problem43Test" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

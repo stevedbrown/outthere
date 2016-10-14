@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.nthread.outthere.tree.PreorderTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2016-10-14T05:07:48" hostname="stationzero" time="0.003">
+  <properties/>
+  <testcase name="testPreorderOne" classname="com.nthread.outthere.tree.PreorderTest" time="0.003"/>
+  <system-out><![CDATA[                               25                                                               
+                              / \                               
+                             /   \                              
+                            /     \                             
+                           /       \                            
+                          /         \                           
+                         /           \                          
+                        /             \                         
+                       /               \                        
+                      /                 \                       
+                     /                   \                      
+                    /                     \                     
+                   /                       \                    
+                  /                         \                   
+                 /                           \                  
+                /                             \                 
+               /                               \                
+               6                               99                               
+              / \                             / \               
+             /   \                           /   \              
+            /     \                         /     \             
+           /       \                       /       \            
+          /         \                     /         \           
+         /           \                   /           \          
+        /             \                 /             \         
+       /               \               /               \        
+       3               10               75               102               
+                      / \                               \       
+                     /   \                               \      
+                    /     \                               \     
+                   /       \                               \    
+                   7       23                               216       
+                          /                               / \   
+                         /                               /   \  
+                         13                               156   217   
+                          \                                     
+                          18                                     
+                                                                                                                                
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
