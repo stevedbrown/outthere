@@ -2,6 +2,7 @@ package com.nthread.outthere.projecteuler;
 
 import java.util.ArrayList;
 import java.util.HashMap;
+import java.util.Iterator;
 import java.util.List;
 
 public class EraSieve {
@@ -23,6 +24,31 @@ public class EraSieve {
 				return i;
 			}
 		}
+	}
+	
+	public Iterator<Long> iterator() {
+		return new Iterator<Long>() {
+			int pos = 0;
+			
+			@Override
+			public boolean hasNext() {
+				return true;
+			}
+
+			@Override
+			public Long next() {
+				if (pos < primes.size()) {
+					return primes.get(pos++);
+				}
+				pos++;
+				return nextPrime();
+			}
+
+			@Override
+			public void remove() {
+			}
+			
+		};
 	}
 
 	private void addPosition(long i, long val) {

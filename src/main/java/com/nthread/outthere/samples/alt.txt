@@ -1,0 +1,16 @@
+7
+*,b,c
+a,*,c
+
+a
+*
+a,b,c,d,*,f
+a,b,c,d,e,*
+7
+a/b/c
+c/b/c
+a/b/c/d
+c
+
+a
+a/b/c/d/e/f

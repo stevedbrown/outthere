@@ -1,12 +1,18 @@
 package com.nthread.outthere.projecteuler;
 
 import java.util.ArrayList;
+import java.util.HashMap;
 import java.util.List;
 
 public class PrimeFactors {
-
-	public static List<Integer> primeFactors(int n) {
-
+	static HashMap<Integer, List<Integer>> factorMap = new HashMap<Integer, List<Integer>>();
+	
+	public static List<Integer> primeFactors(int input) {
+		if ( factorMap.containsKey(input) ) {
+			return factorMap.get(input);
+		}
+		
+		int n = input;
 		List<Integer> factors = new ArrayList<Integer>();
 		for (int i = 2; i <= n / i; i++) {
 			if (n % i == 0) {
@@ -21,6 +27,7 @@ public class PrimeFactors {
 		if (n > 1) {
 			factors.add(n);
 		}
+		factorMap.put(input, factors);
 		return factors;
 	}
 
